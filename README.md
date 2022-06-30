@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @goharyounas.
-- 👀 I’m interested in AI, ML, Web Development.
+- 👀 I’m interested in AI, ML, and Web Development.
 - 🏭 I have been working in the industry as a Python Engineer.
 - 🌱 I’m currently learning Node.js and React.js
 - 📫 How to reach me: goharyounas@gmail.com
